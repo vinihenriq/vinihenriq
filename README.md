@@ -1,7 +1,7 @@
 # Bem vindo!
 
 - 🔭 Atualmente trabalho como analista de T.I. com enfase em banco de dados e BI
-- 🌱 Estou estudando React JS e Type Script
+- 🌱 Estou estudando React JS e TypeScript
 - 🎯 Foco em desenvolvimento front-end
 
 ## Tecnologias de interesse
