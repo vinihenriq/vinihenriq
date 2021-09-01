@@ -1,9 +1,8 @@
 # Bem vindo!
 
 - 🔭 Atualmente trabalho como analista de T.I. com enfase em banco de dados e BI
-- 🌱 Estou apredendo React JS e Type Script
-- 🎯 Meu foco é me tornar um desenvolvedor front-end
-- 📫 Como me contactar:
+- 🌱 Estou estudando React JS e Type Script
+- 🎯 Foco em desenvolvimento front-end
 
 ## Tecnologias de interesse
 <div style="display: inline_block"><br>
@@ -20,8 +19,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinihenriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
+  
+## Minhas Redes
 
-### Fiquem a vontade para acompanhar os projetos nos quais estou trabalhando
+<div style="display: inline_block"><br>
+  <a href="linkedin.com"><img align="center" alt="linkedin" height="30" width="100"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="google.com.br"><img align="center" alt="Gmail" height="30" width="100"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>     </a>
+  <a href="medium.com"><img align="center" alt="medium" height="30" width="100"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>     </a>
+
+</div>  
+
+### Fique à vontade para acompanhar os projetos nos quais estou trabalhando
 
   
 
