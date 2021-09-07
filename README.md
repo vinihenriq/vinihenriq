@@ -23,7 +23,7 @@
 ## Minhas Redes
 
 <div style="display: inline_block"><br>
-  <a href="linkedin.com"><img align="center" alt="linkedin" height="30" width="100"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-s-472a5521a"><img align="center" alt="linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"/> </a>
   <a href="google.com.br"><img align="center" alt="Gmail" height="30" width="100"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>     </a>
   <a href="medium.com"><img align="center" alt="medium" height="30" width="100"src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>     </a>
 
