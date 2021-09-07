@@ -1,7 +1,7 @@
 # Bem vindo!
 
-- 🔭 Atualmente trabalho como Analista de Sistemas com enfase em banco de dados e BI
-- 🌱 Estou estudando React JS e TypeScript
+- 💻 Atualmente trabalho como Analista de Sistemas com enfase em banco de dados e BI
+- 📜 Estou estudando React JS e TypeScript
 - 🎯 Foco em desenvolvimento front-end
 
 ## Tecnologias de interesse
