@@ -16,8 +16,8 @@
 ## Meus Indicadores
 <div>
   <a href="https://github.com/vinihenriq">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinihenriq&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihenriq&theme=city_lights&layout=compact"/>
+  <img align="center" width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinihenriq&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img  align="center" width="420em" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihenriq&theme=city_lights&layout=compact"/>
 </div>
   
 ## Minhas Redes
